@@ -8,10 +8,6 @@ import random
 import time
 import subprocess as s
 
-print("Let's Study!"),
-print("The topics are:\n"),
-study_topics = ["Books", "Cyber Security", "Programming"]
-
 def countdown(mins, secs=0):
     t = (mins*60) + secs
     while t:
@@ -21,10 +17,15 @@ def countdown(mins, secs=0):
         time.sleep(1)
         t -= 1
 
+print("Let's Study!"),
+print("The topics are:\n"),
+study_topics = ["Books", "Cyber Security", "Programming"]
+
 for topic in study_topics:
     print(topic)
     print()
 question = input("Select topic: ")
+
 if question == "Books":
     books = []
     with open("books.txt", "r") as f:
