@@ -16,3 +16,19 @@ The Car Hacker's Handbook
 The Hardware Hacker
 The Linux Command Line
 Web Security For Developers
+Applied cryptography protocols algorithms and source code in c
+Art of intrusion the real stories behind the exploits of hackers intruders
+Art of memory forensics detecting malware and threats in windows linux and mac memory
+Cryptography engineering design principles and practical applications
+Liars and outliers enabling the trust that society needs to thrive
+Malware analysts cookbook and dvd tools and techniques for fighting malicious code
+Practical reverse engineering x86 x64 arm windows kernel reversing tools and obfuscation
+Secrets and lies digital security in a networked world
+Shellcoders handbook discovering and exploiting security holes
+Social engineering the science of human hacking 2nd edition
+The art of deception controlling the human element of security
+Threat modeling designing for security
+Unauthorisedaccess physical penetration testing for it security teams
+Web application hackers handbook finding and exploiting security flaws
+We have root even more advice from schneier on security
+
