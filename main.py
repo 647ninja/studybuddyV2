@@ -19,26 +19,26 @@ def countdown(mins, secs=0):
 
 print("Let's Study!"),
 print("The topics are:\n"),
-study_topics = ["Books", "Cyber Security", "Programming"]
+study_topics = ["Books[1]", "Cyber Security[2]", "Programming[3]"]
 
 for topic in study_topics:
     print(topic)
     print()
 question = input("Select topic: ")
 
-if question == "Books":
+if question == "1":
     books = []
     with open("books.txt", "r") as f:
         books = f.readlines()
         print("How about?:", random.choice(books)),
 
-elif question == "Cyber Security":
+elif question == "2":
     cybersecurity = []
     with open("cybersecurity.txt", "r") as f:
         cybersecurity = f.readlines()
         print("How about?:", random.choice(cybersecurity)),
 
-elif question == "Programming":
+elif question == "3":
     programming = []
     with open("programming.txt", "r") as f:
         programming = f.readlines()
