@@ -1,4 +1,6 @@
 Reverse Engineering
 Assembly
+C
 C++
+Go
 Python
