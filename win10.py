@@ -53,7 +53,7 @@ else:
     exit()
 
 input("Press Enter to Start timer")
-countdown(1),
+countdown(30),
 
 toaster = ToastNotifier()
 toaster.show_toast("Finished!", "Well done, have a Great Day!",
