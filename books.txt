@@ -21,7 +21,7 @@ Art of intrusion the real stories behind the exploits of hackers intruders
 Art of memory forensics detecting malware and threats in windows linux and mac memory
 Cryptography engineering design principles and practical applications
 Liars and outliers enabling the trust that society needs to thrive
-Malware analysts cookbook and dvd tools and techniques for fighting malicious code
+Malware analysts cookbook
 Practical reverse engineering x86 x64 arm windows kernel reversing tools and obfuscation
 Secrets and lies digital security in a networked world
 Shellcoders handbook discovering and exploiting security holes
@@ -31,4 +31,12 @@ Threat modeling designing for security
 Unauthorisedaccess physical penetration testing for it security teams
 Web application hackers handbook finding and exploiting security flaws
 We have root even more advice from schneier on security
-
+Learning Python
+Automate the Boring Stuff with Python
+Secrets of Reverse Engineering
+Modern X86 Assembly Language
+Gray Hat Hacking The Ethical Hacker's Hand
+Practice of network security monitoring
+The IDA Pro Book 2nd Edition
+Designing BSD rootkits
+Bughuntersdiary
