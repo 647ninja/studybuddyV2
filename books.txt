@@ -40,3 +40,6 @@ Practice of network security monitoring
 The IDA Pro Book 2nd Edition
 Designing BSD rootkits
 Bughuntersdiary
+Cyberjutsu
+C Programming Language
+Red Team Development and Operations
