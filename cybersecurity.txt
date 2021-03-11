@@ -1,56 +1,219 @@
-Basic Exploitation
-Post Exploitation
-Service Exploitation
-Privilege Escalation
-Maintaining Access
-Linux Basics
-Reconnaissance
-Exploitation
-Pivoting
-MITRE ATTACK
-Exploit Research
-Web Application Basics
-Tools of the Trade
-OWASP Top 10
-Webapp CVEs
-Windows
-Linux
-Intro to Containers
-Container/Host Security
-Docker Image Security
-Miscellaneous
-Basics
-Personal Networks
-Enterprise Networks
-Advanced Labs
-Forensics
-Hashes
-File Passwords
-Network Recon
-Real World WebApps
-Traffic Analysis
-Metasploit
-Offensive Python
-Network Pivoting
-Infrastructure Attacks
-Firmware Analysis
-Reverse Engineering
-Secure Coding
-Malware Analysis
-DevSecOps
-Code Repositories
-Endpoint Security
-Persistence
-Linux Runtime Analysis
-Cloud Services
-REST
-MITRE ATTACK Linux
-Android Pentesting
-DevOps Basics
-DevSecOps Basics
-Pipeline Basics
-Capture the Flags
-Cryptography
-Basic Knowledge
-Network Security
-Program Exploitation
+Windows Security | Reconnaissance Host Discovery
+Windows Security | Reconnaissance SMB
+Windows Security | Basic Exploitation | With Metasploit
+Windows Security | Post Exploitation | With Metasploit
+Windows Security | Service Exploitation | RDP
+Windows Security | Service Exploitation | SMB
+Windows Security | Service Exploitation | WinRM
+Windows Security | Service Exploitation | WMI 
+Windows Security | Privilege Escalation | Basic
+Windows Security | Maintaining Access | Basics
+Cloud Security | AWS Cloud Security | S3
+Cloud Security | AWS Cloud Security | DynamoDB
+Linux Security | Linux Basics | Basics
+Linux Security | Reconnaissance | Memcached
+Linux Security | Reconnaissance | Webservers
+Linux Security | Reconnaissance | DNS
+Linux Security | Reconnaissance | SQL Databases
+Linux Security | Reconnaissance | FTP Servers
+Linux Security | Reconnaissance | Web Applications
+Linux Security | Exploitation | Metasploit
+Linux Security | Exploitation | Password Cracking
+Linux Security | Exploitation | Web Applications
+Linux Security | Post Exploitation | Metasploit Post Modules
+Linux Security | Post Exploitation | Browser Forensics
+Linux Security | Post Exploitation | Lateral Movement
+Linux Security | Privilege Escalation | Basic
+Linux Security | Pivoting | Basics
+Linux Security | Maintaining Access | Basics
+Linux Security | MITRE ATTACK | Discovery | 3 Labs
+Linux Security | MITRE ATTACK | Credential Access | 2 Labs
+Linux Security | MITRE ATTACK | Privilege Escalation | 2 Labs
+Linux Security | MITRE ATTACK | Persistence | 2 Labs
+Linux Security | MITRE ATTACK | Lateral Movement | 2 Labs
+Linux Security | MITRE ATTACK | Defense Evasion | 2 Labs
+Linux Security | MITRE ATTACK | Command and Control | 1 Labs
+Linux Security | Exploit Research | Buffer Overflow
+WebApp Pentesting Basics | Web Application Basics | Basics
+WebApp Pentesting Basics | Tools of the Trade | Basics
+Linux Security | MITRE ATTACK | Injection
+Linux Security | MITRE ATTACK | Broken Authentication
+Linux Security | MITRE ATTACK | Sensitive Data Exposure
+Linux Security | MITRE ATTACK | XML External Entities
+Linux Security | MITRE ATTACK | Broken Access Control
+Linux Security | MITRE ATTACK | Security Misconfiguration
+Linux Security | MITRE ATTACK | Cross Site Scripting
+Linux Security | MITRE ATTACK | Insecure Deserialization
+Linux Security | MITRE ATTACK | Vulnerable Components
+Linux Security | MITRE ATTACK | Insufficient Logging
+WebApp Pentesting Basics | Webapp CVEs | Basics
+Advanced Priv-Esc | Windows | UAC Bypass
+Advanced Priv-Esc | Windows | DLL Hijacking
+Advanced Priv-Esc | Linux | Linux Capabilities
+Advanced Priv-Esc | Linux | AppArmor
+Advanced Priv-Esc | Linux | Seccomp
+Container Security | Intro to Containers | Container Basics
+Container Security | Intro to Containers | Docker Microservices
+Container Security | Container/Host Security | Container Breakouts
+Container Security | Container/Host Security | Docker Host Attacks
+Container Security | Container/Host Security | Docker API Firewall
+Container Security | Docker Image Security | Docker Registry
+Container Security | Docker Image Security | Docker Image Analysis
+Container Security | Docker Image Security | Docker Forensics
+Container Security | Docker Image Security | Dockerfile Linting
+Container Security | Miscellaneous | Docker Security Tools
+DevSecOps | DevOps Basics | Version Control Systems
+DevSecOps | DevOps Basics | Building Project
+DevSecOps | DevOps Basics | Continuous Integration
+DevSecOps | DevOps Basics | Infrastructure as Code
+DevSecOps | DevSecOps Basics | Automated Code Review
+DevSecOps | DevSecOps Basics | Sensitive Information Scan
+DevSecOps | DevSecOps Basics | Static Application Security Testing
+DevSecOps | DevSecOps Basics | Dynamic Application Security Testing
+DevSecOps | DevSecOps Basics | Software Composition Analysis
+DevSecOps | DevSecOps Basics | Compliance as Code
+DevSecOps | Pipeline Basics | Web Applications
+DevSecOps | Pipeline Basics | Software
+DevSecOps | Fix The Code | Web Applications
+WiFi Security | Basics | Traffic Analysis
+WiFi Security | Basics | Reconnaissance
+WiFi Security | Basics | AP Client Basics
+WiFi Security | Basics | OpenWRT Router
+WiFi Security | Basics | Tools
+WiFi Security | Personal Networks | Offline Cracking
+WiFi Security | Personal Networks | Live Cracking
+WiFi Security | Enterprise Networks | Offline Cracking
+WiFi Security | Enterprise Networks | Live Cracking
+WiFi Security | Enterprise Networks | WiFi Pivoting
+WiFi Security | Advanced Labs | Python Scripting
+WiFi Security | Advanced Labs | AP Backdoors
+WiFi Security | Advanced Labs | Custom Firmware
+WiFi Security | Forensics | Basics
+Reverse Engineering | Windows | Basics
+Reverse Engineering | Linux | GDB Basics
+Reverse Engineering | Linux | Static Binary Analysis
+Password Cracking | Hashes | Basics
+Password Cracking | File Passwords | Basics
+Forensics | Disk Forensics | Basics
+Forensics | Memory Forensics | Basics
+Offensive Python | Interacting with Files | Password Cracking
+Offensive Python | Interacting with Files | File Metadata
+Offensive Python | Interacting with Files | PCAP Analysis
+Offensive Python | Live Interactions | Server Attacks
+Offensive Python | Live Interactions | Debugging
+Offensive Python | Live Interactions | Client Emulation
+Offensive Python | Live Interactions | Server Emulation
+IoT Security | Device Attacks | Bootloader
+IoT Security | Network Attacks | MQTT
+IoT Security | Network Attacks | AMQP
+Other Topics | Network Recon | Webservers
+Other Topics | Network Recon | SQL Databases
+Other Topics | Network Recon | NoSQL Databases
+Other Topics | Network Recon | Distributed Databases
+Other Topics | Network Recon | Distributed Queues
+Other Topics | Network Recon | Proxy Servers
+Other Topics | Network Recon | SMTP Servers
+Other Topics | Network Recon | POP3 Servers
+Other Topics | Network Recon | IMAP Servers
+Other Topics | Network Recon | SIEM Platforms
+Other Topics | Network Recon | SMB Servers
+Other Topics | Network Recon | SSH Servers
+Other Topics | Network Recon | Telnet Servers
+Other Topics | Network Recon | NTP Servers
+Other Topics | Network Recon | TFTP Servers
+Other Topics | Network Recon | IRC Servers
+Other Topics | Network Recon | Finger Servers
+Other Topics | Network Recon | RADIUS
+Other Topics | Network Recon | VNC
+Other Topics | Network Recon | SNMP
+Other Topics | Real World WebApps | Remote Code Execution
+Other Topics | Real World WebApps | Stored XSS
+Other Topics | Real World WebApps | File Upload
+Other Topics | Real World WebApps | SQL Injection
+Other Topics | Real World WebApps | XML External Entity
+Other Topics | Real World WebApps | SSRF
+Other Topics | Real World WebApps | SSTI
+Other Topics | Real World WebApps | Command Injection
+Other Topics | Real World WebApps | Local File Inclusion
+Other Topics | Real World WebApps | Reflected XSS
+Other Topics | Real World WebApps | CSRF
+Other Topics | Real World WebApps | Arbitrary File Download
+Other Topics | Real World WebApps | Directory Traversal
+Other Topics | Real World WebApps | Broken Authentication
+Other Topics | Traffic Analysis | Tshark Fu
+Other Topics | WebApp CVEs | 2020
+Other Topics | WebApp CVEs | 2019
+Other Topics | WebApp CVEs | 2018
+Other Topics | WebApp CVEs | 2017
+Other Topics | WebApp CVEs | 2016
+Other Topics | WebApp CVEs | Older CVEs
+Other Topics | Metasploit | Windows Apps Exploits
+Other Topics | Metasploit | Linux Exploitation
+Other Topics | Metasploit | Meterpreter
+Other Topics | Metasploit | Post Modules
+Other Topics | Metasploit | Metasploit CTFs
+Other Topics | Metasploit | Metasploit Pivot CTFs
+Other Topics | Metasploit | Latest Targets
+Other Topics | Metasploit | WordPress Exploitation
+Other Topics | Metasploit | Pivoting
+Other Topics | Metasploit | Auxiliary Modules
+Other Topics | Metasploit | WebApp Exploits
+Other Topics | Network Pivoting | Single Pivots
+Other Topics | Infrastructure Attacks | Memcached
+Other Topics | Infrastructure Attacks | Squid Proxy
+Other Topics | Infrastructure Attacks | MongoDB
+Other Topics | Infrastructure Attacks | Apache
+Other Topics | Infrastructure Attacks | Nginx
+Other Topics | Privilege Escalation | Linux
+Other Topics | Privilege Escalation | Web to Root
+Other Topics | Privilege Escalation | App to Root
+Other Topics | Privilege Escalation | Linux Capabilities
+Other Topics | Deliberately Vulnerable | Web Apps
+Other Topics | Forensics | Browser
+Other Topics | Firmware Analysis | Wi-Fi Routers
+Other Topics | Secure Coding | Python
+Other Topics | Secure Coding | Ruby
+Other Topics | Malware Analysis | Simple Samples
+Other Topics | DevSecOps | CI/CD Tools
+Other Topics | Code Repositories | Git
+Other Topics | Code Repositories | Python PyPi
+Other Topics | Code Repositories | APT Repository
+Other Topics | Endpoint Security | osquery
+Other Topics | Endpoint Security | OSQuery MITRE
+Other Topics | Endpoint Security | Sysdig
+Other Topics | Endpoint Security | Malware Scanner
+Other Topics | Endpoint Security | HIDS
+Other Topics | Persistence | Maintaining Access
+Other Topics | Persistence | Data Exfiltration
+Other Topics | Linux Runtime Analysis | Profiling Tools
+Other Topics | Log Analysis | Webserver Logs
+Other Topics | Log Analysis | SSH Logs
+Other Topics | Log Analysis | Proxy Logs
+Other Topics | Log Analysis | DNS Logs
+Other Topics | Log Analysis | Windows Event Logs
+Other Topics | Log Analysis | Other Tools
+Other Topics | REST | JWT Basics
+Other Topics | REST | JWT Advanced
+Other Topics | REST | JWT Expert
+Other Topics | REST | API Security
+Other Topics | REST | GraphQL
+Other Topics | MITRE ATTACK Linux | Discovery
+Other Topics | MITRE ATTACK Linux | Credential Access
+Other Topics | MITRE ATTACK Linux | Persistence
+Other Topics | MITRE ATTACK Linux | Privilege Escalation
+Other Topics | Service Exploitation | Linux Services
+Other Topics | Service Exploitation | WebApp Frameworks
+Other Topics | Web Technologies | WebSockets
+Other Topics | Web Technologies | Bot Attack
+Other Topics | Android Pentesting | Basics
+Other Topics | OWASP Top 10 | Single Page Applications
+Other Topics | Network Pentesting | DNS
+Other Topics | Network Pentesting | Git
+Other Topics | Network Pentesting | Recon
+Other Topics | Network Pentesting | Subversion
+Advanced Exercises | Weekly CTF
+Advanced Exercises | Capture the Flags | One Target | 19 Labs
+Advanced Exercises | Capture the Flags | Two Targets | 39 Labs
+Advanced Exercises | Capture the Flags | Three Targets | 8 Labs
+Advanced Exercises | Capture the Flags | Four Targets | 3 Labs
+Advanced Exercises | Capture the Flags | Mega Mystery | 1 Labs
