@@ -212,8 +212,8 @@ Other Topics | Network Pentesting | Git
 Other Topics | Network Pentesting | Recon
 Other Topics | Network Pentesting | Subversion
 Advanced Exercises | Weekly CTF
-Advanced Exercises | Capture the Flags | One Target | 19 Labs
-Advanced Exercises | Capture the Flags | Two Targets | 39 Labs
-Advanced Exercises | Capture the Flags | Three Targets | 8 Labs
-Advanced Exercises | Capture the Flags | Four Targets | 3 Labs
-Advanced Exercises | Capture the Flags | Mega Mystery | 1 Labs
+Advanced Exercises | Capture the Flags | One Target
+Advanced Exercises | Capture the Flags | Two Targets
+Advanced Exercises | Capture the Flags | Three Targets
+Advanced Exercises | Capture the Flags | Four Targets
+Advanced Exercises | Capture the Flags | Mega Mystery
